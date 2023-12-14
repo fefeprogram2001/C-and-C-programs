@@ -12,7 +12,7 @@ int recursive_function(int n) {
 }
 
 int main() {
-  int n = 5;
+  int n = 10;
   int function;
   function = recursive_function(n);
   cout << "Result: " << function;
